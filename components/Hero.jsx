@@ -2,9 +2,9 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
+import { fadeIn } from "@/variants";
 
 // components
-import { fadeIn } from "@/variants";
 import { Button } from "./ui/button";
 
 const Hero = () => {

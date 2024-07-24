@@ -4,8 +4,6 @@ import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { IoIosArrowRoundForward } from "react-icons/io";
-
-// components
 import { fadeIn } from "@/variants";
 
 const menu = [
